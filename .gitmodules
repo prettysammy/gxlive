@@ -1,0 +1,3 @@
+[submodule "fabric"]
+	path = fabric
+	url = git@github.com:prettysammy/fabric.git
